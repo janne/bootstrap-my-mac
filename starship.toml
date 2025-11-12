@@ -1,0 +1,8 @@
+# Main starship configuration from bootstrap-my-mac
+add_newline = false
+
+[gcloud]
+disabled = true
+
+# Local starship customizations
+# Add your custom starship configuration below
